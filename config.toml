@@ -1,0 +1,19 @@
+[theme]
+font = "Noto Sans, Noto Sans KR, Noto Sans JP, sans-serif"
+codeFont = "Noto Sans, Noto Sans KR, Noto Sans JP, sans-serif"
+codeFontSize = "0.95rem"
+baseRadius = "0.75rem"
+
+[theme.light]
+primaryColor = "#4f46e5"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#eef2f7"
+textColor = "#0f172a"
+borderColor = "#d8dee9"
+
+[theme.dark]
+primaryColor = "#6366f1"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#e2e8f0"
+borderColor = "#334155"
